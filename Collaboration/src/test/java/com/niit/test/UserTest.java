@@ -21,10 +21,10 @@ public class UserTest {
 	
 		
 		//usersDetail.setUserId("USER_001");
-		/*usersDetail.setUsername("Admin Bhuvana");
-		usersDetail.setUserFullName("bhuvana");
-		usersDetail.setUserEmail("bhuvana@gmail.com");
-		usersDetail.setUserPhone("9325427410");
+		/*usersDetail.setUsername("Admin prasanna");
+		usersDetail.setUserFullName("prasanna");
+		usersDetail.setUserEmail("prasanna@gmail.com");
+		usersDetail.setUserPhone("7396500841");
 		usersDetail.setPassword("123");
 		usersDetail.setRole("ROLE_ADMIN");
 		usersDetail.setEnabled(true);
@@ -44,11 +44,11 @@ public class UserTest {
 		
 		
 		//usersDetail.setUserId("USER_003");
-		/*usersDetail.setUsername("Asha");
-		usersDetail.setUserFullName("Asha");
-		usersDetail.setUserEmail("asha@gm.ccc");
-		usersDetail.setUserPhone("9365562710");
-		usersDetail.setPassword("123");
+		/*usersDetail.setUsername("Abcd");
+		usersDetail.setUserFullName("Abcd");
+		usersDetail.setUserEmail("abcd@gm.ccc");
+		usersDetail.setUserPhone("9365562711");
+		usersDetail.setPassword("1234");
 		usersDetail.setRole("ROLE_STUDENT");
 		usersDetail.setEnabled(true);
 		userDetailsDAO.addUser(usersDetail);*/
